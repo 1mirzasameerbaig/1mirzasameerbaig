@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Mirza Sameer Baig👋
 
-<!--
-**1mirzasameerbaig/1mirzasameerbaig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MBA Student | Aspiring to be a professional expert in Data Analyst
 
-Here are some ideas to get you started:
+I'm an MBA student with specialisation in Finance and HR.
+Apart from academics I'm developing my technical skills in analytics to match my skills with current demands and requirements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 
+- I am currently pursuing my MBA and will graduate soon.
+- I'm interested in Analytics, so my interest motivated me to pursue a certification in the field - Data Analyst.
+- I’m currently focusing on enhancing my technical skills with AI.
+- In addition to above I'm learning Tableau 
+
+## Skills
+- Excel
+- SQL
+- Power Bi
+- Python
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/mirza-sameer-baig-king/
+- GitHub: https://github.com/1mirzasameerbaig
