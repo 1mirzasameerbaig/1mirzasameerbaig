@@ -13,7 +13,8 @@ Apart from academics I'm developing my technical skills in analytics to match my
 
 ## Skills
 - Excel
-- SQL
+- SQL Server
+- PostgreSQL
 - Power Bi
 - Python
 
