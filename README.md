@@ -1,6 +1,6 @@
 ## Hi, I'm Mirza Sameer Baig👋
 
-### MBA final year student | Aspiring to be a professional expert in Data Analyst
+### MBA final year student | Aspiring to be a professional expert in Data Analysis
 
 I'm an MBA student with specialisation in Finance and HR.
 Apart from academics I'm developing my technical skills in analytics to match my skills with current demands and requirements.
